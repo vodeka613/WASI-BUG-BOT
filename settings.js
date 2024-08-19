@@ -7,7 +7,7 @@ global.ownernomer = "201203655427"
 global.ownername = "Vv"
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
-global.location = "Pakistan, Lahore"
+global.location = "Egypt, Alex"
 
 global.ownernumber = '201203655427'  //creator number
 global.ownername = ' Vv ' //owner name
