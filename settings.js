@@ -19,7 +19,7 @@ global.author = 'Vv'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Vv TECH"
+global.wm = "Vv"
 
 //theme link
 global.link = 'https://whatsapp.com'
